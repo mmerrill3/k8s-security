@@ -61,7 +61,7 @@ Images should be able to be scanned alive in an infrastructure as well.  This ca
 #### Tagging Strategy
 
 All resources created to support workloads, either in the cloud provider or by the kubernetes API (pods, deployment, stateful sets, jobs) should have a well defined tagging and label strategy.  This is useful beyond security (see financial operations), but helps a security engineer quickly identify context around a workload. 
-- 
+
 ### Organization
 
 Cultural points within an organization that should be considered 
